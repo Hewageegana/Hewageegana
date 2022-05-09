@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me hewageegana.r@gmail.com
 
 <!---
 Hewageegana/Hewageegana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
